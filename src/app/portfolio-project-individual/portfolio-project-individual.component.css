@@ -1,0 +1,128 @@
+
+.shadow{
+  opacity: 0.05;
+  font-family: CircularStd;
+  font-size: 150px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #161616;
+}
+.normal{
+  font-family: CircularStd;
+  font-size: 120px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #161616;
+  margin-top: -150px
+}
+.intro{
+  opacity: 0.5;
+  font-family: CircularStd;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #161616;
+  margin-top:50px;
+  margin-bottom: 10px;
+}
+
+.Breathtaking-digital{
+  font-family: CircularStd;
+  font-size: 26px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #161616;
+  margin-bottom: 40px;
+}
+.margin-bottom_10{
+  margin-bottom: 10px
+}
+.line{
+  width: 1px;
+  height: 232px;
+  border: solid 1px #e2e2e2;
+  
+}
+.Our-team-is-a-combin{
+  opacity: 0.5;
+  font-family: CircularStd;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.73;
+  letter-spacing: normal;
+  text-align: left;
+  color: #161616;
+}
+.Load-More-Projects {
+  width: 133px;
+  height: 19px;
+  font-family: CircularStd;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #161616;
+}
+.Big-or-Small-Fast-o {
+  width: 75%;
+  height: auto;
+  font-family: CircularStd;
+  font-size: 60px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: center;
+  color: #161616;
+  margin-bottom: 20px;
+}
+.Whatever-your-needs {
+  width: 230px;
+  height: 52px;
+  font-family: CircularStd;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.86;
+  letter-spacing: normal;
+  text-align: center;
+  color: #161616;
+  margin: auto;
+  margin-top: 10px;
+}
+.Drop-Us-a-Line {
+  width: auto;
+  height: auto;
+  font-family: CircularStd;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #161616;
+}
